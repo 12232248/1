@@ -34,3 +34,11 @@ Give description of your results. (-2p)
 Seasonality can be  interpreted as climatology by month. 
 2.2
 Also the seasonality climatology should be removed. (-1p)
+
+### Assginment 04 comments - Chenyy
+Good try! I shall give you 20/30.
+Please start exploring netCDF files by modifying the examples on the web.
+
+### Assginment 05 comments - Chenyy
+I shall give you 20/40.
+I didn’t see your report, the marks are given based on your python script.
