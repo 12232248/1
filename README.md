@@ -27,3 +27,10 @@ Please finish by yourself.  (-10p)
 3.8 to 4
 Try to finish as much as you can. (-30p)
 
+## Comemnts on HW3 Lixc  (47/50)
+1.2 & 1.3
+Give description of your results. (-2p)
+1.3
+Seasonality can be  interpreted as climatology by month. 
+2.2
+Also the seasonality climatology should be removed. (-1p)
